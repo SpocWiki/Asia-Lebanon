@@ -112,8 +112,8 @@ id: Lebanon
 zoomFeatures: true 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./Lebanon/
-markerFolder: ./Lebanon/
+geojsonFolder: ./
+markerFolder: ./
 ```
 
 [name-en::Lebanon] 
