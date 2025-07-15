@@ -133,10 +133,4 @@ Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]
 
 
 
-## Confidential Links & Embeds: 
-- [[Lebanon|Lebanon]]  
-- [[../../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon.internal|Lebanon.internal]]  
-- [[../../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon.protect|Lebanon.protect]] 
-- [[../../../../../_private/geo/Continent/Asia/Asia~West/Lebanon.private|Lebanon.private]] 
-- [[../../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon.personal|Lebanon.personal]] 
-- [[../../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon.secret|Lebanon.secret]] 
+

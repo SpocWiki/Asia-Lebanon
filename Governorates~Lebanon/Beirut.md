@@ -40,11 +40,18 @@ markerFolder: ./Beirut/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut|Beirut]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.public|Beirut.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.internal|Beirut.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.protect|Beirut.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.private|Beirut.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.personal|Beirut.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beirut.secret|Beirut.secret]] 
+
+### #is_/same_as :: [Beirut](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.md) 
+
+### #is_/same_as :: [Beirut.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.public.md) 
+
+### #is_/same_as :: [Beirut.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.internal.md) 
+
+### #is_/same_as :: [Beirut.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.protect.md) 
+
+### #is_/same_as :: [Beirut.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.private.md) 
+
+### #is_/same_as :: [Beirut.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.personal.md) 
+
+### #is_/same_as :: [Beirut.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut.secret.md)
 

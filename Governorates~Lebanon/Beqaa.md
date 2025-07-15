@@ -40,11 +40,18 @@ markerFolder: ./Beqaa/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa|Beqaa]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa.public|Beqaa.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa.internal|Beqaa.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa.protect|Beqaa.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa.private|Beqaa.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa.personal|Beqaa.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/Beqaa.secret|Beqaa.secret]] 
+
+### #is_/same_as :: [Beqaa](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.md) 
+
+### #is_/same_as :: [Beqaa.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.public.md) 
+
+### #is_/same_as :: [Beqaa.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.internal.md) 
+
+### #is_/same_as :: [Beqaa.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.protect.md) 
+
+### #is_/same_as :: [Beqaa.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.private.md) 
+
+### #is_/same_as :: [Beqaa.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.personal.md) 
+
+### #is_/same_as :: [Beqaa.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beqaa.secret.md)
 

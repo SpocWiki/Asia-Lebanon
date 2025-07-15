@@ -40,11 +40,18 @@ markerFolder: ./South_Lebanon/
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../../_Standards/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon|South_Lebanon]] 
-- [[../../../../../../../_public/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.public|South_Lebanon.public]] 
-- [[../../../../../../../_internal/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.internal|South_Lebanon.internal]] 
-- [[../../../../../../../_protect/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.protect|South_Lebanon.protect]] 
-- [[../../../../../../../_private/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.private|South_Lebanon.private]] 
-- [[../../../../../../../_personal/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.personal|South_Lebanon.personal]] 
-- [[../../../../../../../_secret/geo/Continent/Asia/Asia~West/Lebanon/Counties/South_Lebanon.secret|South_Lebanon.secret]] 
+
+### #is_/same_as :: [Lebanon~South](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.md) 
+
+### #is_/same_as :: [Lebanon~South.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.public.md) 
+
+### #is_/same_as :: [Lebanon~South.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.internal.md) 
+
+### #is_/same_as :: [Lebanon~South.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.protect.md) 
+
+### #is_/same_as :: [Lebanon~South.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.private.md) 
+
+### #is_/same_as :: [Lebanon~South.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.personal.md) 
+
+### #is_/same_as :: [Lebanon~South.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South.secret.md)
 
