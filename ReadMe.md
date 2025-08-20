@@ -1,40 +1,41 @@
 ---
 location:
-- 33.87
-- 35.5
+  - 33.87
+  - 35.5
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26946
 isDeleted: false
 confidential: public
 license: CC BY-SA 4.0
 isReadOnly: false
 source: https://datahub.io/core/country-codes
-cssclasses: Country
+cssclasses:
+  - Country
 publish: true
 title: Lebanon
-linkTitle: 
-keywords: 
-layout: 
+linkTitle:
+keywords:
+layout:
 draft: false
-publishDate: 
-expiryDate: 
+publishDate:
+expiryDate:
 aliases:
-- Lebanon
-- Líbano
-- Liban
-- لبنان
-- 黎巴嫩
-- Ливан
-- the Lebanese Republic
-- la República Libanesa
-- Líbano (el)
+  - Lebanon
+  - Líbano
+  - Liban
+  - لبنان
+  - 黎巴嫩
+  - Ливан
+  - the Lebanese Republic
+  - la República Libanesa
+  - Líbano (el)
 Languages:
-- ar-LB
-- fr-LB
-- en
-- hy
+  - ar-LB
+  - fr-LB
+  - en
+  - hy
 ---
 
 
