@@ -3,7 +3,7 @@ location:
   - 33.3
   - 35.3
 type: geo-Region
-title: South_Lebanon
+title: Lebanon~South
 license: CC BY-SA 4.0
 source: https://datahub.io/core/country-codes
 isDeleted: false
@@ -13,7 +13,7 @@ confidential: public
 tags:
   - geo/Country/Region
 aliases:
-  - South_Lebanon
+  - Lebanon~South
 Languages:
   - de
 cssclasses:
@@ -26,15 +26,18 @@ publishDate:
 expiryDate:
 ---
 
-# South_Lebanon
+# [[Lebanon~South]] 
 
 ```leaflet
-id: South_Lebanon
-zoomFeatures: true 
+id: Lebanon~South
+zoomFeatures: false 
 minZoom: 2 
 maxZoom: 18
-geojsonFolder: ./South_Lebanon/
-markerFolder: ./South_Lebanon/
+defaultZoom: 9
+geojsonFolder: ./Lebanon~South//
+markerFolder: ./Lebanon~South/
+coordinates: [[Lebanon~South]] 
+markerFile: [[Lebanon~South]] 
 ```
 
 
