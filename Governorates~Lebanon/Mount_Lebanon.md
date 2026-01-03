@@ -40,17 +40,17 @@ markerFolder: ./Mount_Lebanon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Mount_Lebanon](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon|Mount_Lebanon]] 
 
-### #is_/same_as :: [Mount_Lebanon.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.public|Mount_Lebanon.public]] 
 
-### #is_/same_as :: [Mount_Lebanon.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.internal|Mount_Lebanon.internal]] 
 
-### #is_/same_as :: [Mount_Lebanon.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.protect|Mount_Lebanon.protect]] 
 
-### #is_/same_as :: [Mount_Lebanon.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.private|Mount_Lebanon.private]] 
 
-### #is_/same_as :: [Mount_Lebanon.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.personal|Mount_Lebanon.personal]] 
 
-### #is_/same_as :: [Mount_Lebanon.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Mount_Lebanon.secret|Mount_Lebanon.secret]] 
 

@@ -40,17 +40,17 @@ markerFolder: ./North_Lebanon/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Lebanon~North](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North|Lebanon~North]] 
 
-### #is_/same_as :: [Lebanon~North.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.public|Lebanon~North.public]] 
 
-### #is_/same_as :: [Lebanon~North.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.internal|Lebanon~North.internal]] 
 
-### #is_/same_as :: [Lebanon~North.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.protect|Lebanon~North.protect]] 
 
-### #is_/same_as :: [Lebanon~North.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.private|Lebanon~North.private]] 
 
-### #is_/same_as :: [Lebanon~North.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.personal|Lebanon~North.personal]] 
 
-### #is_/same_as :: [Lebanon~North.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~North.secret|Lebanon~North.secret]] 
 

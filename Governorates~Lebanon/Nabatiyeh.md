@@ -42,17 +42,17 @@ markerFolder: ./An_Nabatiyah/
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Nabatiyeh](/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh|Nabatiyeh]] 
 
-### #is_/same_as :: [Nabatiyeh.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.public|Nabatiyeh.public]] 
 
-### #is_/same_as :: [Nabatiyeh.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.internal|Nabatiyeh.internal]] 
 
-### #is_/same_as :: [Nabatiyeh.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.protect|Nabatiyeh.protect]] 
 
-### #is_/same_as :: [Nabatiyeh.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.private|Nabatiyeh.private]] 
 
-### #is_/same_as :: [Nabatiyeh.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.personal|Nabatiyeh.personal]] 
 
-### #is_/same_as :: [Nabatiyeh.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Nabatiyeh.secret|Nabatiyeh.secret]] 
 

@@ -65,19 +65,20 @@ maxZoom: 18
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beirut)
 
+
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [Beirut,City](Beirut,City.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City|Beirut,City]] 
 
-### #is_/same_as :: [Beirut.public](/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut/City/Beirut.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City.public|Beirut,City.public]] 
 
-### #is_/same_as :: [Beirut.internal](/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut/City/Beirut.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City.internal|Beirut,City.internal]] 
 
-### #is_/same_as :: [Beirut.protect](/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut/City/Beirut.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City.protect|Beirut,City.protect]] 
 
-### #is_/same_as :: [Beirut.private](/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut/City/Beirut.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City.private|Beirut,City.private]] 
 
-### #is_/same_as :: [Beirut.personal](/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut/City/Beirut.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City.personal|Beirut,City.personal]] 
 
-### #is_/same_as :: [Beirut.secret](/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut/City/Beirut.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City.secret|Beirut,City.secret]] 
 

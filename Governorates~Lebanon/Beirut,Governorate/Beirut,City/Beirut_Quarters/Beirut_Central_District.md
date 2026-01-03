@@ -42,3 +42,20 @@ aliases:
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Beirut%20Central%20District) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District|Beirut_Central_District]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District.public|Beirut_Central_District.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District.internal|Beirut_Central_District.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District.protect|Beirut_Central_District.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District.private|Beirut_Central_District.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District.personal|Beirut_Central_District.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Beirut,Governorate/Beirut,City/Beirut_Quarters/Beirut_Central_District.secret|Beirut_Central_District.secret]] 
+

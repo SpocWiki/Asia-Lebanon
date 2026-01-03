@@ -71,3 +71,20 @@ Commons_category: Tyre, Lebanon
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Tyre,%20Lebanon) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre|Tyre]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre.public|Tyre.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre.internal|Tyre.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre.protect|Tyre.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre.private|Tyre.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre.personal|Tyre.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/Governorates~Lebanon/Lebanon~South/counties~South/Sour/cities~Sour/Tyre.secret|Tyre.secret]] 
+

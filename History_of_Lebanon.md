@@ -26,3 +26,20 @@ Dewey_Decimal_Classification: "956.92"
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/History%20of%20Lebanon) 
 
+
+## Confidential Links & Embeds: 
+
+### #is_/same_as :: [[/_Standards/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon|History_of_Lebanon]] 
+
+### #is_/same_as :: [[/_public/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon.public|History_of_Lebanon.public]] 
+
+### #is_/same_as :: [[/_internal/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon.internal|History_of_Lebanon.internal]] 
+
+### #is_/same_as :: [[/_protect/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon.protect|History_of_Lebanon.protect]] 
+
+### #is_/same_as :: [[/_private/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon.private|History_of_Lebanon.private]] 
+
+### #is_/same_as :: [[/_personal/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon.personal|History_of_Lebanon.personal]] 
+
+### #is_/same_as :: [[/_secret/Earth/Continent/Asia/Asia~West/Lebanon/History_of_Lebanon.secret|History_of_Lebanon.secret]] 
+
