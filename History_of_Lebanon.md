@@ -2,12 +2,12 @@
 aliases:
 has_id_wikidata: Q234541
 described_by_source:
-  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
-topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Lebanon,14406394]]"
-instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]"
-facet_of: "[[_Standards/WikiData/WD~Lebanon,822]]"
-country: "[[_Standards/WikiData/WD~Lebanon,822]]"
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_History_of_Lebanon,14406394|WD~Template_History_of_Lebanon,14406394]]"
+instance_of: "[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]"
+facet_of: "[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]"
+country: "[[_Standards/WikiData/WD~Lebanon,822|WD~Lebanon,822]]"
 Commons_category: History of Lebanon
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wikipedia%20-%20History%20of%20Lebanon%20-%20Part%201.ogg
 Dewey_Decimal_Classification: "956.92"

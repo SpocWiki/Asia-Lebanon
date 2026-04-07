@@ -121,7 +121,7 @@ markerFolder: ./
 [Area-Land::10230] 
 Continent :: [[Asia]]  
 [VehicleCode::RL] 
-Capital :: [[Lebanon/Counties/Beirut/City/Beirut]]  
+Capital :: [[Lebanon/Counties/Beirut/City/Beirut|Beirut]]  
 ![[Lebanon/Coat_of_arms_of_Lebanon.svg|350]]  
 
 ![[Anthem-Lebanon.mp3]] 

@@ -22,7 +22,7 @@ aliases:
 [geo-lat::33.87] 
 [name::Beirut] 
 State ::  
-Country :: [[../../../Lebanon]]  
+Country :: [[../../../Lebanon|Lebanon]]  
 [StateId::] 
 [Population::] 
 [Unknown::] 
