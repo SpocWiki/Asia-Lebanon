@@ -63,7 +63,7 @@ maxZoom: 18
 > and was subsequently rebuilt after each of these events. 
 > Its architectural and demographic structure underwent major change in recent decades.
 >
-> [Wikipedia](https://en.wikipedia.org/wiki/Beirut)
+> [Wikipedia](https://en.wikipedia.org/wiki/Beirut) 
 
 
 ## Confidential Links & Embeds: 

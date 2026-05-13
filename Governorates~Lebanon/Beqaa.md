@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Beqaa/
 markerFolder: ./Beqaa/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

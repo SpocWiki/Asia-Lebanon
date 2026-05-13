@@ -38,7 +38,7 @@ geojsonFolder: ./Lebanon~South//
 markerFolder: ./Lebanon~South/
 coordinates: [[Lebanon~South]] 
 markerFile: [[Lebanon~South]] 
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

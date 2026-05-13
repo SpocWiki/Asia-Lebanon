@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Beirut,Governorate/
 markerFolder: ./Beirut,Governorate/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 

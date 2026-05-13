@@ -35,7 +35,7 @@ minZoom: 2
 maxZoom: 18
 geojsonFolder: ./Mount_Lebanon/
 markerFolder: ./Mount_Lebanon/
-```
+``` 
 
 
 ## Confidential Links & Embeds: 
